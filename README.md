@@ -1,4 +1,4 @@
-# COVID19 Response
+# COVID-19 Response
 
 Covid19 Response will share tools and resources for security incident response and cyber defence, aimed to help systems adminstrators or anyone to protect against threats using desease outbreak as a vector.
 
